@@ -1,0 +1,4 @@
+http://google.com
+http://yandex.ru
+http://stackoverflow.com/questions/3925614/how-do-you-read-a-file-into-a-list-in-python
+http://google.com

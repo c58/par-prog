@@ -1,0 +1,12 @@
+message Movie {
+  enum Genre {
+    DRAM = 0;
+    SHOOTER = 1;
+    FANTASY = 2;
+  }
+
+  required string name = 1;
+  required Genre genre = 2;
+  required int32 year = 4;
+  repeated string actors = 3;
+}

@@ -1,0 +1,4 @@
+Вот совет как рекламу убрать нафик: 1. Идем по этой ссылке: www.livejournal.com/customize/options.bml?group=customcss
+2. Добавляем в поле «Custom stylesheet» вот это: #ad-leaderboard { display: none;} #ad-5linkunit { display: none;} .adv { display: none;}
+3. Радуемся жизни без долбаной рекламы
+Схабрено с http://habrahabr.ru/blogs/i_am_clever/38426/
